@@ -59,7 +59,7 @@
 | `TG_USER_ID`            |   telegram推送        | tg推送,填写[@getuseridbot](https://t.me/getuseridbot)中获取到的纯数字ID, [具体教程](https://github.com/lxk0301/scripts/pull/37#issuecomment-692415594) |
 | `SEND_KEY`              |     推送开关           |如果你想只在COOKIE失效时发送推送信息,就加一个这个,参数值随便写就行|
 
-### 什么值得买 Cookie 获取
+### 什么值得买 Cookie 获取   
 
 1. 电脑浏览器访问 https://zhiyou.smzdm.com/user/ 进行登录，如果登录后，不是该页面，则重新在浏览器中访问一次 https://zhiyou.smzdm.com/user/ 即可。
 
