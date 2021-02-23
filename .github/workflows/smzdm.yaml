@@ -2,7 +2,7 @@ name: 什么值得买签到
 
 on:
   schedule:
-    - cron: '53 16 * * *'
+    - cron: '1 16 * * *'
   workflow_dispatch:
   watch:
     types: [started]
